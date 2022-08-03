@@ -1,0 +1,10 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin-inline: 3%;
+    background-color: lightgray;
+}
+h1{
+    margin-left: 10%;    
+    font-size: 40px;
+    color: darkred;
+}
