@@ -1,10 +1,23 @@
 body{
-    font-family: 'Ubuntu', sans-serif;
+    /*font-family: 'Ubuntu', sans-serif;*/
+    font-size: 22px;
     margin-inline: 3%;
-    background-color: lightgray;
+    background-image: url(img/fondo1.jpg);
+    background-color: rgb(180, 180, 180);
+    /*background-blend-mode: soft-light;*/
+    background-size: cover;
+    background-repeat: no-repeat;
 }
-h1{
-    margin-left: 10%;    
+.encabezado{
+    margin-inline: 7%;    
     font-size: 40px;
-    color: darkred;
+    text-align: center;
+    color: white;
+    background-color: rgba(75, 75, 75, 0.65);
+}
+.desarrollando{
+    color: white;
+    background-color: rgba(40, 40, 40, 0.75);
+    padding: 3%;
+    width: fit-content;
 }
